@@ -1,5 +1,4 @@
-# cogs-118b-project
-Brain MRI Scan Tumor Detection
+# Brain MRI Scan Tumor Detection
 
 Dataset:  
 - https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection  
