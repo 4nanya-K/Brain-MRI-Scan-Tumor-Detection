@@ -1,5 +1,5 @@
 # cogs-118b-project
-COGS 118B FA24 Final Project
+Brain MRI Scan Tumor Detection
 
 Dataset:  
 - https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection  
